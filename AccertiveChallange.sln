@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccertiveChallange", "AccertiveChallange\AccertiveChallange.csproj", "{B58C8253-446D-43D3-B58C-C9179DC6500C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject", "UnitTestProject\UnitTestProject.csproj", "{5166A258-A318-4023-8AC5-CD58A72FB73D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B58C8253-446D-43D3-B58C-C9179DC6500C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B58C8253-446D-43D3-B58C-C9179DC6500C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B58C8253-446D-43D3-B58C-C9179DC6500C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B58C8253-446D-43D3-B58C-C9179DC6500C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5166A258-A318-4023-8AC5-CD58A72FB73D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5166A258-A318-4023-8AC5-CD58A72FB73D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5166A258-A318-4023-8AC5-CD58A72FB73D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5166A258-A318-4023-8AC5-CD58A72FB73D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29A8E254-A0C0-4EA4-9F8D-ED4F2362A475}
+	EndGlobalSection
+EndGlobal
